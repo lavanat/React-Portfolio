@@ -1,7 +1,7 @@
 import React from "react";
 
 const Footer = () => {
-    return <footer>
+    return (<footer>
         <ul>
         <li>
           <a href="mailto:lavee.natch@gmail.com">Email</a>
@@ -14,6 +14,6 @@ const Footer = () => {
         </li>
       </ul>
     </footer>
-};
+)};
 
 export default Footer;
