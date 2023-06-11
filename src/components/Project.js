@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 const aboutMe = () => {
     return <section class="section-container">
@@ -129,3 +130,17 @@ return <div>
 </div>
 };
 
+const project = () => {
+    return <main>
+    <Router>
+        <Switch>
+            <Route path='/' exact component = {aboutMe} />
+            <Route path='/portfolio' exact component = {portfolio} />
+            <Route path='/contact' exact component = {contact} />
+            <Route path='/resume' exact component = {resume} />
+        </Switch>
+    </Router>
+    </main>
+};
+
+export default project;
