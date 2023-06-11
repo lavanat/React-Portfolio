@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import {  Link } from "react-router-dom";
 
-const navbar= () =>{
+const Navigation= () =>{
   return (
   <div>
     <li>
@@ -19,4 +19,4 @@ const navbar= () =>{
   </div>
   );
 }
-export default navbar;
+export default Navigation;

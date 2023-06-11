@@ -130,7 +130,7 @@ return <div>
 </div>
 };
 
-const project = () => {
+const Project = () => {
     return <main>
     <Router>
         <Switch>
@@ -143,4 +143,4 @@ const project = () => {
     </main>
 };
 
-export default project;
+export default Project;
