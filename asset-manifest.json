@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/React-Portfolio/static/js/main.47359982.js",
+    "static/media/LavanyaPicture.jpg": "/React-Portfolio/static/media/LavanyaPicture.da17af63b70b0ffa8786.jpg",
+    "static/media/passwordGeneratorImage.png": "/React-Portfolio/static/media/passwordGeneratorImage.d348a0c77a25798aa665.png",
+    "static/media/restaurantFinderImage.png": "/React-Portfolio/static/media/restaurantFinderImage.275f54bdf03c4a1b6945.png",
+    "static/media/gradebookImage.png": "/React-Portfolio/static/media/gradebookImage.b29eb170a2ed9959c7df.png",
+    "static/media/quizImage.png": "/React-Portfolio/static/media/quizImage.a7e40b2b3c5c079f8f69.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.073c9b0a.css.map": "/React-Portfolio/static/css/main.073c9b0a.css.map",
+    "main.47359982.js.map": "/React-Portfolio/static/js/main.47359982.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.47359982.js"
+  ]
+}
